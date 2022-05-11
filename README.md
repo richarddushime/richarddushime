@@ -1,4 +1,4 @@
-## ✨ _special_ ✨ 
+## ✨ _special_thanks_for_the_visit_🌱 🌱 welcome ✨ 
 ### Hello there, my name is Richard! 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/richard-dushime/)
