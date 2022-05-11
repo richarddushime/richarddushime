@@ -21,6 +21,6 @@
 
 ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddushime&layout=compact&theme=gotham&count_private=true)
 
-![](https://raw.githubusercontent.com/richarddushime/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/richarddushime/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/richarddushime/github-stats/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/richarddushime/github-stats/main/generated/overview.svg#gh-light-mode-only)
 
