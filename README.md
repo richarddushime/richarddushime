@@ -19,5 +19,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Automate things and Have Fun. 
 
-![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=NodiraIbrogimova&layout=compact&theme=gotham&count_private=true)
+![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddushime&layout=compact&theme=gotham&count_private=true)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
