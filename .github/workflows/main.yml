@@ -13,7 +13,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: richarddushime/richarddushime#readme@v1
+      uses: richarddushime/richarddushime@v1
       with:
         token: ${{ secrets.USER_TOKEN }}
     - name: Update README.md
