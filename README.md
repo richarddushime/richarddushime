@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/richard-dushime/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=blue)](https://twitter.com/RichardDushime)
 [![G-Mail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&color=blue)](mailto://mudaherarich@gmail.com)
-[Gdsc Profile Badges](https://developers.google.com/profile/u/richarddushime)
+[💬G profile](https://g.dev/richarddushime)
 
 ![My Profile Overview](https://github-readme-stats.vercel.app/api?username=richarddushime&show_icons=true&theme=blue-green&count_private=true)
 
