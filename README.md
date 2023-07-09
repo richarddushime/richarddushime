@@ -10,14 +10,13 @@
 ![My Profile Overview](https://github-readme-stats.vercel.app/api?username=richarddushime&show_icons=true&theme=blue-green&count_private=true)
 
 
-- 🔭 I’m currently working on | school | communities | Open Source | Personal Projects |
-- 🌱 I’m currently learning Google IT Automation with Python on coursera
-- 👯 I’m looking to collaborate on Any Topic Related to | Open Source | Machine Learning | Artificial Intelligence| Personal  Projects |
-- 🤔 I’m looking for help in Machine Learning and Artificial Intelligence :) 
-- 💬 Ask me about Informations Systems and Programming
-- 📫 How to reach me: email or Social Media
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Automate things and Have Fun. 
+- 🔭 Currently focusing on: Communities | Open Source | Personal Projects | Open Science 🌱 |
+- 👯 Seeking collaborations in: Open Source | Machine Learning | Artificial Intelligence | Personal Projects
+- 🤔 Seeking assistance with: Machine Learning and Artificial Intelligence
+- 💬 Expertise in: Information Systems | Software Development | Open Science
+- 📫 Contact: Reach me via email or social media platforms
+- ⚡ Fun fact: Passionate about automation and finding joy in the process.
+ 😄 
 
 
 <h3 align="left">Languages and Tools:</h3>
