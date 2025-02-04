@@ -35,7 +35,9 @@
   </a>
 </p>
 
-#  Quick Contacts
+## My Interrests
+- Currently open to Work 
+#  Get In Touch
 
 <p align="left">
   <a href="mailto:mudaherarich@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
