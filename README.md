@@ -1,29 +1,44 @@
-# ✨ Special_thanks_for_the_visit_🌱 🌱 welcome ✨ 
-## Hello there, my name is Richard! 👋
-<h3 align="left">👯 Lets Connect 👯</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=richarddushime&style=for-the-badge" alt="PROFILE VIEWS" />
+</p>
+<h3 align="center">👋 Ciao 👋 Hi 👋 Bonjour 👋 </h3>
+<h1 align="center">I'm Dushime Mudahera Richard </h1>
+<p align="center">
+ <em>Masters in Data Science at <a href="https://www.unime.it/"> Messina University, Italy</a></em>
+</p>
+<h3 align="center"> ✨ Special_thanks_for_the_visit 🌱 🌱 Welcome ✨ </h2>
+<h3 align="center">👯 Lets Connect 👯</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/richard-dushime/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@richarddushime" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://stackoverflow.com/users/13416690" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://x.com/RichardDushime" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto://mudaherarich@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&color=blue" alt="Gmail"></a>
+</p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/richard-dushime/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=blue)](https://twitter.com/RichardDushime)
-[![G-Mail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&color=blue)](mailto://mudaherarich@gmail.com)
-[💬G profile](https://g.dev/richarddushime)
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=richarddushime&theme=darkhub" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=richarddushime&theme=darkhub" alt="GitHub Trophy">
+  </a>
+</p>
+<h3 align="center">GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats-alpha-rouge-64.vercel.app/api/top-langs?username=richarddushime&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-alpha-rouge-64.vercel.app/api?username=richarddushime&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150" />
+   <img src="https://github-readme-streak-stats-rho-six.vercel.app?user=richarddushime&theme=transparent" alt="GitHub Streak" />
+</div>
 
-![My Profile Overview](https://github-readme-stats.vercel.app/api?username=richarddushime&show_icons=true&theme=blue-green&count_private=true)
+<h3 align="center">Technologies and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,python,django,flask,rust,php,r,html,htmx,netlify,vuejs,postgresql,mysql,mongodb,docker,linux,vim,atom,idea,postman,vscode,bootstrap,kali,powershell,stackoverflow,wordpress" />
+  </a>
+</p>
 
+#  Quick Contacts
 
-- 🔭 Currently focusing on: Communities | Open Source | Personal Projects | Open Science 🌱 |
-- 👯 Seeking collaborations in: Open Source | Machine Learning | Artificial Intelligence | Personal Projects
-- 🤔 Seeking assistance with: Machine Learning and Artificial Intelligence
-- 💬 Expertise in: Information Systems | Software Development | Open Science
-- 📫 Contact: Reach me via email or social media platforms
-- ⚡ Fun fact: Passionate about automation and finding joy in the process.
- 😄 
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left" >
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://raw.githubusercontent.com/ReallyLiri/devicon/49d6118b67c3b4ab0134b5a64fe0b117caf73ae1/icons/sqlserver/sqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=richarddushime&layout=compact&theme=gotham&count_private=true)
-
+<p align="left">
+  <a href="mailto:mudaherarich@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/richard-dushime/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/RichardDushime"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
