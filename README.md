@@ -48,5 +48,5 @@ Community-driven developer focused on open science, research software, and inclu
 
 <h3 align="center">Hacktoberfest Tree certificate </h3>
 <div align="center">
-   <a href="https://tree-nation.com/certificate/65288cb61185e"><img src="./tree-certificate.pdf" alt="Tree certificate" height="" /></a>
+   <a href="https://tree-nation.com/certificate/65288cb61185e"><img src="/tree-certificate.pdf" alt="Tree certificate" height="" /></a>
 </div>
