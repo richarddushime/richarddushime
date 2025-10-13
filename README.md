@@ -46,7 +46,7 @@ Community-driven developer focused on open science, research software, and inclu
   <a href="https://x.com/RichardDushime"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-<h3 align="center">Hacktoberfest Tree certificate </h3>
+<h3 align="center">Hacktoberfest Tree Nation </h3>
 <div align="center">
-   <a href="https://tree-nation.com/certificate/65288cb61185e"><img src="/tree-certificate.pdf" alt="Tree certificate" height="" /></a>
+   <a href="https://tree-nation.com/certificate/65288cb61185e"> Tree certificate </a>
 </div>
