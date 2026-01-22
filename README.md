@@ -43,6 +43,6 @@ Community-driven developer focused on open science, research software, and inclu
   <a href="https://x.com/RichardDushime"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=richarddushime&style=for-the-badge" alt="PROFILE VIEWS" />
 </p>
