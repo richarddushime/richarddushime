@@ -1,8 +1,7 @@
 <h3 align="center">👋 Ciao 👋 Hi 👋 Bonjour 👋 </h3>
 <h1 align="center">I'm Dushime Mudahera Richard </h1>
 <p align="center">
-  I'm a Data Science Master's student at <a href="https://www.unime.it/"> Messina University, Italy</a> , passionate about machine learning, AI, and research software engineering. Skilled in Python, Django, Flask, R, and open-source development, I contribute to solutions and advocate for accessible tech education. Through Thinkpro Tech Innitiative, I mentor and guide aspiring tech enthusiasts.
-Community-driven developer focused on open science, research software, and inclusive innovation.
+Data Science Master’s student at the University of Messina, Italy, with an interest in machine learning, AI, and research software engineering. I enjoy contributing to open-source projects and supporting others in their learning journey through the Thinkpro Tech Initiative. Currently exploring federated learning. I’m particularly interested in open science and making technology more accessible and inclusive.
 </p>
 <h3 align="center"> ✨ Special_thanks_for_the_visit 🌱 🌱 Welcome ✨ </h2>
 <h3 align="center">👯 Lets Connect 👯</h3>
