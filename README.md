@@ -2,8 +2,9 @@
 <h1 align="center">I'm Dushime Mudahera Richard </h1>
 <p align="center">
 Data Science Master’s student at the University of Messina, Italy, with an interest in machine learning, AI, and research software engineering. I enjoy contributing to open-source projects and supporting others in their learning journey through different innitiatives. I’m particularly interested in open science and making technology more accessible and inclusive.
-  For more, Visit my [website](https://richarddushime.netlify.app/)
 </p>
+  For more, Visit: https://richarddushime.netlify.app
+  
 <h3 align="center"> ✨ Special_thanks_for_the_visit 🌱 🌱 Welcome ✨ </h2>
 <h3 align="center">👯 Lets Connect 👯</h3>
 <p align="center">
