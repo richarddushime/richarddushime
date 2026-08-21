@@ -16,9 +16,7 @@ Data Science Master’s student at the University of Messina, Italy, with an int
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=richarddushime&theme=darkhub" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=richarddushime&theme=darkhub" alt="GitHub Trophy">
-  </a>
+  <img src="./trophy.svg" alt="GitHub Trophy">
 </p>
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
@@ -32,6 +30,16 @@ Data Science Master’s student at the University of Messina, Italy, with an int
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,python,django,flask,rust,php,r,html,htmx,netlify,vuejs,postgresql,mysql,mongodb,docker,linux,vim,atom,idea,postman,vscode,bootstrap,kali,powershell,stackoverflow,wordpress" />
   </a>
+</p>
+
+<h3 align="center">Certifications</h3>
+<p align="center">
+  <a href="badges/aws-cloud-practitioner-essentials.pdf" target="_blank"><img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Essentials"></a>
+  <a href="badges/aws-ml-engineer-associate.pdf" target="_blank"><img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate%20Curriculum-FF9900?logo=amazonaws&logoColor=white" alt="AWS ML Engineer Associate Curriculum"></a>
+  <a href="https://www.credly.com/badges/d9804eea-bee0-4871-9040-6029b02ace5a" target="_blank"><img src="https://img.shields.io/badge/IBM-Data%20Science%20Orientation-052FAD?logo=ibm&logoColor=white" alt="IBM Data Science Orientation"></a>
+  <a href="https://coursera.org/verify/COTLO8SHXTBP" target="_blank"><img src="https://img.shields.io/badge/Duke%20University-Interpretable%20Machine%20Learning-00539B?logo=coursera&logoColor=white" alt="Interpretable Machine Learning"></a>
+  <a href="https://coursera.org/verify/1MS8RXK0WV9P" target="_blank"><img src="https://img.shields.io/badge/Duke%20University-Explainable%20ML%20(XAI)-00539B?logo=coursera&logoColor=white" alt="Explainable Machine Learning (XAI)"></a>
+  <a href="https://coursera.org/verify/Z25QHLXOSZBC" target="_blank"><img src="https://img.shields.io/badge/Google-Crash%20Course%20on%20Python-4285F4?logo=google&logoColor=white" alt="Crash Course on Python"></a>
 </p>
 
 ## My Interrests
