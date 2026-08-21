@@ -17,7 +17,7 @@ jobs:
         with:
           username: richarddushime
           output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY }}
       - name: Commit and push trophy.svg
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
