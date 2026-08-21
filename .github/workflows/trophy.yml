@@ -6,16 +6,18 @@ on:
     branches:
       - main
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   trophy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: ryo-ma/github-profile-trophy@v1
+      - uses: ryo-ma/github-profile-trophy@v1.0
         with:
           username: richarddushime
-          output: trophy.svg
-          theme: darkhub
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push trophy.svg
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
