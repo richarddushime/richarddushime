@@ -16,7 +16,7 @@ jobs:
       - uses: ryo-ma/github-profile-trophy@v1.0
         with:
           username: richarddushime
-          output_path: trophy.svg
+          output_path: ./trophy.svg
           token: ${{ secrets.TROPHY }}
       - name: Commit and push trophy.svg
         run: |
