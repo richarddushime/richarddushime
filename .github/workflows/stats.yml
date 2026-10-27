@@ -1,0 +1,48 @@
+name: Generate GitHub Stats
+# This workflow generates GitHub stats cards for the README file.
+on:
+  schedule:
+    - cron: '0 6 * * *' # once a day
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/stats.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=richarddushime&show_icons=true&theme=tokyonight
+          path: profile/stats.svg
+          token: ${{ secrets.TROPHY }}
+          fail_on_error: true # keep the last good card instead of committing an error card
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=richarddushime&layout=compact&theme=gotham
+          path: profile/top-langs.svg
+          token: ${{ secrets.TROPHY }}
+          fail_on_error: true
+      - uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=richarddushime&theme=transparent
+          path: profile/streak.svg
+          token: ${{ secrets.TROPHY }}
+      - name: Commit and push stats cards
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            git add profile/*.svg
+            git commit -m "Update stats cards"
+            # trophy.yml also pushes to main; rebase in case it landed first.
+            git pull --rebase
+            git push
+          fi
