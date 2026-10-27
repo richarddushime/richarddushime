@@ -52,10 +52,10 @@ Data Science Master’s student at the University of Messina, Italy, interested 
 <h3 align="center">✍️ Latest Writing</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping Fast Without Shipping Blind: Designing AI Systems for Bounded Failure](https://medium.com/@richarddushime/shipping-fast-without-shipping-blind-designing-ai-systems-for-bounded-failure-0f69fefbeeca)
-- [Sounding Right vs. Being Right: Feedback Pipelines and How Models Improve From User Feedback](https://medium.com/@richarddushime/sounding-right-vs-being-right-feedback-pipelines-and-how-models-improve-from-user-feedback-c1f2ebd92e77)
-- [What If Your Infrastructure Organised Itself?](https://medium.com/@richarddushime/what-if-your-infrastructure-organised-itself-0bc4d24df6e4)
-- [Why Container Deployment at the Edge Is Still Broken](https://medium.com/@richarddushime/why-container-deployment-at-the-edge-is-still-broken-19b42e3ee3d7)
+- [Shipping Fast Without Shipping Blind: Designing AI Systems for Bounded Failure](https://medium.com/@richarddushime/shipping-fast-without-shipping-blind-designing-ai-systems-for-bounded-failure-0f69fefbeeca?source=rss-81d5c5cf9fba------2)
+- [Sounding Right vs. Being Right: Feedback Pipelines and How Models Improve From User Feedback](https://medium.com/@richarddushime/sounding-right-vs-being-right-feedback-pipelines-and-how-models-improve-from-user-feedback-c1f2ebd92e77?source=rss-81d5c5cf9fba------2)
+- [What If Your Infrastructure Organised Itself?](https://medium.com/@richarddushime/what-if-your-infrastructure-organised-itself-0bc4d24df6e4?source=rss-81d5c5cf9fba------2)
+- [Why Container Deployment at the Edge Is Still Broken](https://medium.com/@richarddushime/why-container-deployment-at-the-edge-is-still-broken-19b42e3ee3d7?source=rss-81d5c5cf9fba------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@richarddushime).
