@@ -4,11 +4,13 @@
 Data Science Master’s student at the University of Messina, Italy, interested in <b>AI safety and trustworthy machine learning</b>: how to build AI systems that stay reliable, interpretable, and safe as they learn from human feedback and operate in changing environments. I care about the gap between what a system appears to learn and what it actually learns, and about open science and making technology more accessible and inclusive.
 </p>
 
-<p align="center">
-  🔭 <b>Currently:</b> Kubernetes &amp; multi-cluster orchestration intern at FCRLab, University of Messina<br>
-  🌐 Leading the website team at <a href="https://forrt.org">FORRT</a> as a maintainer<br>
-  🗣️ English · French · Swahili · Italian
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">🔭 <b>Currently</b><br>Kubernetes &amp; multi-cluster orchestration intern at FCRLab, University of Messina</td>
+    <td align="center" width="33%">🌐 <b>Open source</b><br>Leading the website team at <a href="https://forrt.org">FORRT</a> as a maintainer</td>
+    <td align="center" width="33%">🗣️ <b>Languages</b><br>English · French · Swahili · Italian</td>
+  </tr>
+</table>
 <p align="center">For more, visit <a href="https://richarddushime.netlify.app">richarddushime.netlify.app</a></p>
 
 <h3 align="center">✨ Thanks for visiting 🌱 Welcome ✨</h3>
@@ -42,18 +44,16 @@ Data Science Master’s student at the University of Messina, Italy, interested 
   </picture>
 </div>
 
-<h3 align="center">Open Source Impact</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-dark.svg">
     <img src="./profile/activity-light.svg" alt="Commits, pull requests opened, pull requests reviewed and issues in the last 12 months" />
   </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/impact-dark.svg">
-    <img src="./profile/impact-light.svg" alt="Pull requests, reviews and commits to other people's repositories in the last 12 months" />
-  </picture>
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <h3 align="center">✍️ Latest Writing</h3>
 
@@ -64,13 +64,22 @@ Data Science Master’s student at the University of Messina, Italy, interested 
 - [Why Container Deployment at the Edge Is Still Broken](https://medium.com/@richarddushime/why-container-deployment-at-the-edge-is-still-broken-19b42e3ee3d7)
 <!-- BLOG-POST-LIST:END -->
 
+More on [Medium](https://medium.com/@richarddushime).
+
+</td>
+<td width="50%" valign="top">
+
 <h3 align="center">📄 Publications</h3>
 
-- **Opportunities for Feedback Across the Research Cycle: Quantitative Findings of a Global Transdisciplinary Survey** — Sobolak, R., Skubera, M., Azevedo, F., … Mudahera, D. R., et al. (2026). *MetaArXiv*. [osf.io/preprints/metaarxiv/2jasm_v1](https://osf.io/preprints/metaarxiv/2jasm_v1)
+- **Opportunities for Feedback Across the Research Cycle: Quantitative Findings of a Global Transdisciplinary Survey** — Sobolak, R., … Mudahera, D. R., et al. (2026). *MetaArXiv*. [osf.io/preprints/metaarxiv/2jasm_v1](https://osf.io/preprints/metaarxiv/2jasm_v1)
 - **How to Develop and Use Open Educational Resources** — Azevedo, F., … & Mudahera, D. R. (2025). *EdArXiv*. [doi:10.35542/osf.io/sn693_v1](https://doi.org/10.35542/osf.io/sn693_v1)
 - **The Research Software & Systems Community in Africa** — Van Heusden, P., Grobbelaar, M., & Dushime, M. R. (2024). *Zenodo*. [doi:10.5281/zenodo.12515927](https://doi.org/10.5281/zenodo.12515927)
 
 More on [Google Scholar](https://scholar.google.co.uk/citations?user=GNUUfykAAAAJ) and [my website](https://richarddushime.netlify.app).
+
+</td>
+</tr>
+</table>
 
 <h3 align="center">Technologies and Tools</h3>
 <p align="center">

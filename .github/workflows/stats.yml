@@ -17,6 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # Rewrites the list between the BLOG-POST-LIST markers in README.md.
+      # Must run first: it does `git pull --rebase` even with skip_commit, which
+      # fails once the card steps below have left uncommitted changes.
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: https://medium.com/feed/@richarddushime
+          max_post_count: 4
+          skip_commit: true # committed together with the cards below
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
@@ -57,16 +65,10 @@ jobs:
           options: user=richarddushime&hide_border=true&theme=github-dark
           path: profile/streak-dark.svg
           token: ${{ secrets.TROPHY }}
-      - name: Generate activity and open source impact cards
-        run: python3 scripts/impact_cards.py richarddushime profile
+      - name: Generate last-12-months activity card
+        run: python3 scripts/activity_card.py richarddushime profile
         env:
           GITHUB_TOKEN: ${{ secrets.TROPHY }}
-      # Rewrites the list between the BLOG-POST-LIST markers in README.md.
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: https://medium.com/feed/@richarddushime
-          max_post_count: 4
-          skip_commit: true # committed together with the cards below
       - name: Commit and push stats cards
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
