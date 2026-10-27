@@ -3,11 +3,12 @@
 <p align="center">
 Data Science Master’s student at the University of Messina, Italy, interested in <b>AI safety and trustworthy machine learning</b>: how to build AI systems that stay reliable, interpretable, and safe as they learn from human feedback and operate in changing environments. I care about the gap between what a system appears to learn and what it actually learns, and about open science and making technology more accessible and inclusive.
 </p>
+<h3 align="center"> 🔭 Currently </h3>
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">🔭 <b>Currently</b><br>Kubernetes &amp; multi-cluster orchestration intern at FCRLab, University of Messina</td>
-    <td align="center" width="33%">🌐 <b>Open source</b><br>Leading the website team at <a href="https://forrt.org">FORRT</a> as a maintainer</td>
+    <br>Kubernetes &amp; multi-cluster orchestration intern at FCRLab, University of Messina</td>
+    <br>Leading the website team at <a href="https://forrt.org">FORRT</a> as a maintainer</td>
     <td align="center" width="33%">🗣️ <b>Languages</b><br>English · French · Swahili · Italian</td>
   </tr>
 </table>
@@ -28,7 +29,7 @@ Data Science Master’s student at the University of Messina, Italy, interested 
 <p align="center">
   <img src="./trophy.svg" alt="GitHub Trophy">
 </p>
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">At a Glance</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
@@ -41,13 +42,6 @@ Data Science Master’s student at the University of Messina, Italy, interested 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
     <img src="./profile/streak-light.svg" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-dark.svg">
-    <img src="./profile/activity-light.svg" alt="Commits, pull requests opened, pull requests reviewed and issues in the last 12 months" />
   </picture>
 </div>
 
@@ -69,7 +63,7 @@ More on [Medium](https://medium.com/@richarddushime).
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📄 Publications</h3>
+<h3 align="center">Publications</h3>
 
 - **Opportunities for Feedback Across the Research Cycle: Quantitative Findings of a Global Transdisciplinary Survey** — Sobolak, R., … Mudahera, D. R., et al. (2026). *MetaArXiv*. [osf.io/preprints/metaarxiv/2jasm_v1](https://osf.io/preprints/metaarxiv/2jasm_v1)
 - **How to Develop and Use Open Educational Resources** — Azevedo, F., … & Mudahera, D. R. (2025). *EdArXiv*. [doi:10.35542/osf.io/sn693_v1](https://doi.org/10.35542/osf.io/sn693_v1)

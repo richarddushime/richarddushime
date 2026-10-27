@@ -8,7 +8,6 @@ on:
       - main
     paths:
       - '.github/workflows/stats.yml'
-      - 'scripts/**'
   workflow_dispatch:
 permissions:
   contents: write
@@ -29,7 +28,6 @@ jobs:
         with:
           card: stats
           # count_private only takes effect if TROPHY has the `repo` scope.
-          # include_all_commits: the activity card already covers the last year.
           options: username=richarddushime&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default
           path: profile/stats-light.svg
           token: ${{ secrets.TROPHY }}
@@ -65,10 +63,6 @@ jobs:
           options: user=richarddushime&hide_border=true&theme=github-dark
           path: profile/streak-dark.svg
           token: ${{ secrets.TROPHY }}
-      - name: Generate last-12-months activity card
-        run: python3 scripts/activity_card.py richarddushime profile
-        env:
-          GITHUB_TOKEN: ${{ secrets.TROPHY }}
       - name: Commit and push stats cards
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
