@@ -3,7 +3,7 @@
 <p align="center">
 Data Science Master’s student at the University of Messina, Italy, interested in <b>AI safety and trustworthy machine learning</b>: how to build AI systems that stay reliable, interpretable, and safe as they learn from human feedback and operate in changing environments. I care about the gap between what a system appears to learn and what it actually learns, and about open science and making technology more accessible and inclusive.
 </p>
-<h3 align="center">🔭 Currently</h3>
+<h3 align="left">🔭 Currently</h3>
 
 <table align="center">
   <tr>
