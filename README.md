@@ -1,7 +1,7 @@
 <h3 align="center">👋 Ciao 👋 Hi 👋 Bonjour 👋 Jambo 👋</h3>
 <h1 align="center">I'm Dushime Mudahera Richard</h1>
 <p align="center">
-Data Science Master’s student at the University of Messina, Italy, interested in <b>AI safety and trustworthy machine learning</b>: how to build AI systems that stay reliable, interpretable, and safe as they learn from human feedback and operate in changing environments. I care about the gap between what a system appears to learn and what it actually learns, and about open science and making technology more accessible and inclusive.
+Data Science Master’s student at the University of Messina, Italy, interested in <b>AI safety and Machine Learning</b>: how to build AI systems that stay reliable, interpretable, and safe as they learn from human feedback and operate in changing environments. I care about the gap between what a system appears to learn and what it actually learns, and about open science and making technology more accessible and inclusive.
 </p>
 <h3 align="left">🔭 Currently</h3>
 
