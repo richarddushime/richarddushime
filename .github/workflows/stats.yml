@@ -1,5 +1,5 @@
 name: Generate GitHub Stats
-# This workflow generates GitHub stats cards for the README file.
+# This workflow generates the README's stats cards (light and dark) and latest Medium posts.
 on:
   schedule:
     - cron: '0 6 * * *' # once a day
@@ -8,6 +8,7 @@ on:
       - main
     paths:
       - '.github/workflows/stats.yml'
+      - 'scripts/**'
   workflow_dispatch:
 permissions:
   contents: write
@@ -19,28 +20,56 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=richarddushime&show_icons=true&theme=tokyonight
-          path: profile/stats.svg
+          options: username=richarddushime&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default
+          path: profile/stats-light.svg
           token: ${{ secrets.TROPHY }}
           fail_on_error: true # keep the last good card instead of committing an error card
       - uses: stats-organization/github-readme-stats-action@v2
         with:
+          card: stats
+          options: username=richarddushime&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.TROPHY }}
+          fail_on_error: true
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
           card: top-langs
-          options: username=richarddushime&layout=compact&theme=gotham
-          path: profile/top-langs.svg
+          options: username=richarddushime&layout=compact&langs_count=8&hide_border=true&theme=default
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.TROPHY }}
+          fail_on_error: true
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=richarddushime&layout=compact&langs_count=8&hide_border=true&theme=github_dark
+          path: profile/top-langs-dark.svg
           token: ${{ secrets.TROPHY }}
           fail_on_error: true
       - uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=richarddushime&theme=transparent
-          path: profile/streak.svg
+          options: user=richarddushime&hide_border=true&theme=default
+          path: profile/streak-light.svg
           token: ${{ secrets.TROPHY }}
+      - uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=richarddushime&hide_border=true&theme=github-dark
+          path: profile/streak-dark.svg
+          token: ${{ secrets.TROPHY }}
+      - name: Generate activity and open source impact cards
+        run: python3 scripts/impact_cards.py richarddushime profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.TROPHY }}
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: https://medium.com/feed/@richarddushime
+          max_post_count: 4
+          skip_commit: true # committed together with the cards below
       - name: Commit and push stats cards
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
             git config user.name github-actions[bot]
             git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-            git add profile/*.svg
+            git add profile/*.svg README.md
             git commit -m "Update stats cards"
             # trophy.yml also pushes to main; rebase in case it landed first.
             git pull --rebase
