@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Richard Dushime&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 66, Total Commits  : 2018, Total PRs: 589, Total Issues: 107, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 66, Total Commits  : 2012, Total PRs: 586, Total Issues: 107, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 50.378600984658895;
+        stroke-dashoffset: 50.4224609939124;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >589</text>
+      >586</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
